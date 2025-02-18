@@ -1,0 +1,33 @@
+<svg width="82.000000" height="82.000000" viewBox="0 0 82 82" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip122_1927">
+			<rect id="Icon" rx="0.000000" width="33.000000" height="33.000000" transform="translate(24.500000 24.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="6.750008" y1="86.499977" x2="85.750023" y2="-5.499985" id="paint_linear_121_1892_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#A685FA"/>
+			<stop offset="0.323723" stop-color="#A685FA" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="81.750000" y1="-10.500015" x2="6.750031" y2="82.000008" id="paint_linear_121_1892_1" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#A685FA"/>
+			<stop offset="0.576615" stop-color="#A685FA" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="3.250000" y1="13.500000" x2="71.750000" y2="72.000000" id="paint_linear_121_1893_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#A685FA"/>
+			<stop offset="0.323723" stop-color="#A685FA" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="84.250000" y1="86.000015" x2="12.249989" y2="35.000031" id="paint_linear_121_1893_1" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#A685FA"/>
+			<stop offset="0.576615" stop-color="#A685FA" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip122_1927)">
+		<path id="Union" d="M36.1 36.1C34.11 38.09 30.88 38.09 28.89 36.1C26.9 34.11 26.9 30.88 28.89 28.89L29.39 28.39C30.02 27.75 30.89 27.4 31.79 27.4L50.2 27.4C51.1 27.4 51.97 27.75 52.6 28.39L53.1 28.89C55.09 30.88 55.09 34.11 53.1 36.1C51.11 38.09 47.88 38.09 45.89 36.1C45.64 35.86 45.43 35.59 45.25 35.31C44.33 36.69 42.77 37.59 41 37.59C39.22 37.59 37.66 36.69 36.75 35.32C36.56 35.59 36.35 35.86 36.1 36.1ZM36.75 38.86C34.46 40.39 31.52 40.55 29.1 39.35L29.1 52.05L28.67 52.05C27.97 52.05 27.39 52.62 27.39 53.32C27.39 54.02 27.97 54.6 28.67 54.6L36.32 54.6C37.02 54.6 37.6 54.02 37.6 53.32L37.6 47.37C37.6 46.67 38.17 46.1 38.87 46.1L43.12 46.1C43.82 46.1 44.39 46.67 44.39 47.37L44.39 53.32C44.39 54.02 44.97 54.6 45.67 54.6L53.32 54.6C54.02 54.6 54.6 54.02 54.6 53.32C54.6 52.62 54.02 52.05 53.32 52.05L52.89 52.05L52.89 39.35C50.47 40.55 47.53 40.39 45.24 38.86C44.03 39.67 42.57 40.14 41 40.14C39.42 40.14 37.96 39.67 36.75 38.86Z" fill="#A685FA" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<rect id="Container" rx="30.500000" width="61.000000" height="61.000000" transform="translate(10.500000 10.500000)" stroke="url(#paint_linear_121_1893_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<rect id="Container" rx="30.500000" width="61.000000" height="61.000000" transform="translate(10.500000 10.500000)" stroke="url(#paint_linear_121_1893_1)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<rect id="Icon Container" rx="40.500000" width="81.000000" height="81.000000" transform="translate(0.500000 0.500000)" stroke="url(#paint_linear_121_1892_0)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+	<rect id="Icon Container" rx="40.500000" width="81.000000" height="81.000000" transform="translate(0.500000 0.500000)" stroke="url(#paint_linear_121_1892_1)" stroke-opacity="1.000000" stroke-width="1.000000"/>
+</svg>
